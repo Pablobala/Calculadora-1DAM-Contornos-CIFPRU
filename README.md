@@ -6,6 +6,6 @@ Proyecto colaborativo que implementa una calculadora en Java para el aula de 1º
  - Suma: a + b. Nombre de operación: "add"
  - Resta: a - b. Nombre de operación: "subtract"
 
-##Ejemplo de uso:
+## Ejemplo de uso:
 
 

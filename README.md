@@ -7,5 +7,5 @@ Proyecto colaborativo que implementa una calculadora en Java para el aula de 1º
  - Resta: a - b. Nombre de operación: "subtract"
 
 ## Ejemplo de uso:
-
+Héctor a ver si cobras algo
 

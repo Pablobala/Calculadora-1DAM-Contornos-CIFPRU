@@ -7,11 +7,12 @@ public class Calculator {
     static {
         ops.put("add", new Add());
         ops.put("subtract", new Subtract());
+        ops.put("multiply", new Multiply());
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Operación (add, subtract...): ");
+        System.out.print("Operación (add, subtract,multiply...): ");
         String op = sc.next();
         Operation operation = ops.get(op);
         if (operation != null) {
